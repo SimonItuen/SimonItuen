@@ -42,10 +42,10 @@ Simon is a software engineer who specializes in designing and developing applica
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SimonItuen"><img src="https://github-readme-stats.vercel.app/api?username=SimonItuen&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="SimonItuen's GitHub stats" /></a>
+<a href="http://www.github.com/SimonItuen"><img src="https://github-readme-stats.vercel.app/api?username=SimonItuen&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="SimonItuen's GitHub stats" /></a>
 
-<a href="http://www.github.com/SimonItuen"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SimonItuen&stroke=ffffff&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/SimonItuen"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SimonItuen&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/SimonItuen"><img src="https://activity-graph.herokuapp.com/graph?username=SimonItuen&bg_color=ffffff&color=ffffff&line=3382ed&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/SimonItuen"><img src="https://activity-graph.herokuapp.com/graph?username=SimonItuen&bg_color=000000&color=ffffff&line=f97316&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/SimonItuen" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonItuen&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/SimonItuen" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonItuen&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
